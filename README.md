@@ -12,4 +12,7 @@ O módulo "app.py" é a construção do dash. Devemos inserir os dados financeir
 Para rodar o grafico basta abrir o terminal no diretorio e dar o comando: 
 >python app.py
 
+A ideia é que vocês aproveitem a estrutura para brincar e criar diferentes layouts de dashboards. 
+
+=)
 
